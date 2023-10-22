@@ -24,6 +24,10 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Screenshot
 
 
+https://github.com/maliacho/orm-ecommerce/assets/141271179/6e89dc5c-e67f-4682-be8b-c020edf3eb6a
+
+
+
 ## Technologies Used
 VS Code, JavaScript, Express, MySQL, Sequelize, dotenv
 
